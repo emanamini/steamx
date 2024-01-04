@@ -4,8 +4,8 @@
   
   
   <url>
-    <loc>/blog/example-post/</loc>
-    <lastmod>2023-09-07T16:27:22+02:00</lastmod>
+    <loc>/blog/what-is-steamx/</loc>
+    <lastmod>2024-01-03T16:27:22+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -31,8 +31,8 @@
   
   
   <url>
-    <loc>/docs/guides/example-guide/</loc>
-    <lastmod>2023-09-07T16:04:48+02:00</lastmod>
+    <loc>/docs/guides/defi-safety-guide/</loc>
+    <lastmod>2023-09-07T16:04:47+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
