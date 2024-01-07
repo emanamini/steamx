@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Steam Exchange</title>
+    <link>/blog/</link>
+    <description>Recent content in Blog on Steam Exchange</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2023 Hyas</copyright>
+    <lastBuildDate>Thu, 07 Sep 2023 16:21:44 +0200</lastBuildDate>
+    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is SteamX?</title>
+      <link>/blog/what-is-steamx/</link>
+      <pubDate>Wed, 03 Jan 2024 16:27:22 +0200</pubDate>
+      <guid>/blog/what-is-steamx/</guid>
+      <description>Steam Exchange: Bridging traditional finance with blockchain innovation for seamless digital asset experiences.</description>
+    </item>
+  </channel>
+</rss>
