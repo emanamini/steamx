@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SteamExchange on Steam Exchange</title>
+    <link>/</link>
+    <description>Recent content in SteamExchange on Steam Exchange</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2023 Hyas</copyright>
+    <lastBuildDate>Thu, 07 Sep 2023 16:33:54 +0200</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is SteamX?</title>
+      <link>/blog/what-is-steamx/</link>
+      <pubDate>Wed, 03 Jan 2024 16:27:22 +0200</pubDate>
+      <guid>/blog/what-is-steamx/</guid>
+      <description>Steam Exchange: Bridging traditional finance with blockchain innovation for seamless digital asset experiences.</description>
+    </item>
+    <item>
+      <title>DeFi Safety Guide</title>
+      <link>/docs/guides/defi-safety-guide/</link>
+      <pubDate>Thu, 07 Sep 2023 16:04:47 +0200</pubDate>
+      <guid>/docs/guides/defi-safety-guide/</guid>
+      <description>DeFi is the wild west of Crypto. In this open and lawless world, if you are not cautious, someone else will take advantage and steal your money.</description>
+    </item>
+    <item>
+      <title>About us</title>
+      <link>/docs/reference/about-us/</link>
+      <pubDate>Sat, 06 Jan 2024 08:13:18 +0200</pubDate>
+      <guid>/docs/reference/about-us/</guid>
+      <description>Reference Page: Steam Exchange Documentation&#xA;1. Rails Network Overview: Blockchain for trust, scalability, and security. Trading Solutions: Trust-less Swap and Quickswap.</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 07 Sep 2023 17:19:07 +0200</pubDate>
+      <guid>/privacy/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
