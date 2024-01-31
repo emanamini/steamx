@@ -85,16 +85,35 @@ ul.pagination {
   filter: var(--icon-filter);
 }
 
-.book-brand {
-  margin-top: 0;
-  margin-bottom: $padding-16;
 
-  img {
-    height: 1.5em;
-    width: 1.5em;
-    margin-inline-end: $padding-8;
+
+.img-container {
+  margin: 5%;
+}
+
+img {
+  width: 60%;
+  height: auto;
+  display: block;
+  margin: 5%;
+  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.5); // Add box shadow
+}
+
+@media screen and (min-width: 768px) {
+  .img-container {
+    margin: 2%;
   }
 }
+
+@media screen and (min-width: 1200px) {
+  .img-container {
+    margin: 1%;
+  }
+}
+
+
+
+
 
 .book-menu {
   flex: 0 0 $menu-width;
