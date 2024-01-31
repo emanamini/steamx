@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Rails Network FAQ</title>
+    <link>https://yourdomain.com/posts/</link>
+    <description>Recent content in Blog on Rails Network FAQ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://yourdomain.com/posts/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is SteamX</title>
+      <link>https://yourdomain.com/posts/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://yourdomain.com/posts/creating-a-new-theme/</guid>
+      <description>Steam Exchange, a pioneering Canadian Fintech startup established in 2021, stands at the forefront of the rapidly evolving landscape of cryptocurrency, blockchain technology, and web2 to web3 integrations. Our core values revolve around fostering a culture of continuous learning, driving innovation, and offering scalable digital asset solutions. As a registered corporation in Canada, we are committed to reshaping the way value is exchanged by leveraging cutting-edge technologies and a unique hybrid model that harmonizes elements from both centralized and decentralized financial ecosystems.</description>
+    </item>
+  </channel>
+</rss>

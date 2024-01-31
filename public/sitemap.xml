@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>/en/sitemap.xml</loc>
-    
-      <lastmod>2024-01-03T16:27:22+02:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://yourdomain.com/docs/</loc>
+  </url><url>
+    <loc>https://yourdomain.com/docs/general/with-toc/</loc>
+  </url><url>
+    <loc>https://yourdomain.com/docs/rails-network/with-toc/</loc>
+  </url><url>
+    <loc>https://yourdomain.com/docs/trading/with-toc/</loc>
+  </url><url>
+    <loc>https://yourdomain.com/posts/creating-a-new-theme/</loc>
+    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yourdomain.com/docs/general/</loc>
+  </url><url>
+    <loc>https://yourdomain.com/docs/rails-network/</loc>
+  </url><url>
+    <loc>https://yourdomain.com/docs/trading/</loc>
+  </url><url>
+    <loc>https://yourdomain.com/docs/mining/</loc>
+  </url><url>
+    <loc>https://yourdomain.com/posts/</loc>
+    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yourdomain.com/</loc>
+    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yourdomain.com/docs/hidden/</loc>
+  </url><url>
+    <loc>https://yourdomain.com/categories/</loc>
+  </url><url>
+    <loc>https://yourdomain.com/tags/</loc>
+  </url>
+</urlset>
