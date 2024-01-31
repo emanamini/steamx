@@ -16,5 +16,3 @@ At Steam Exchange, we are on a mission to to brige back the trust to crypto exch
 - **Social Media:** Follow us on Telegram, Twitter or Discord for real-time updates and announcements.
 
 We are excited to have you on board and look forward to building a thriving and innovative community together. Join us on this exciting journey!
-
-![Local Image](1.jpg)

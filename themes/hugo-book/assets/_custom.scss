@@ -2,19 +2,9 @@
 
 // @import "plugins/numbered";
 
-p>img   {
-	box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.5);
-}
-p>a>img   {
-	box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.5);
-}
 img {
     display: block; /* or inline-block if you want it to be inline with text */
-    margin: auto;
-}
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 5% 5%;
+    box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.5);
 }
 
