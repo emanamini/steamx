@@ -96,18 +96,18 @@ img {
   height: auto;
   display: block;
   margin: 5%;
-  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.5); // Add box shadow
+//  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.5); // Add box shadow
 }
 
 @media screen and (min-width: 768px) {
   .img-container {
-    margin: 2%;
+    margin: 5%;
   }
 }
 
 @media screen and (min-width: 1200px) {
   .img-container {
-    margin: 1%;
+    margin: 5%;
   }
 }
 

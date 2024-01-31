@@ -1,6 +1,8 @@
 ---
+
 title: Migrate from BSC to Rails
 weight: 1
+bookToc: false
 ---
 # How to Migrate SteamX Tokens from BSC to Rails Network
 

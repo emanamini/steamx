@@ -1,6 +1,7 @@
 ---
 title: Adding Rails Network to MetaMask
 weight: 1
+bookToc: false
 ---
 # Adding Rails Network to MetaMask
 
