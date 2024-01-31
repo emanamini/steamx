@@ -9,7 +9,7 @@ weight: 1
 2. Press Add Network.
 3. Select Custom Network tab.
 
-![Adding Rails Network to MetaMask](1.gif)
+![Adding Rails Network to MetaMask](0.gif)
 
 4. In this dialog, use the following variables:
    - Network Name: Rails Network

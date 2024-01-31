@@ -16,7 +16,7 @@ weight: 2
 
 3. Select the Network tab in the next dialog.
 
-![Add Network](TW-Interact-With-Rails-Network-04.jpg)
+![Add Network](TW-Interact-With-Rails-Network-03.jpg)
 
 4. In this dialog, use the following variables:
    - **Network:** Ethereum
@@ -25,9 +25,11 @@ weight: 2
    - **Node URL:** [https://mainnet.steamexchange.io](https://mainnet.steamexchange.io)
    - **Explorer URL (Optional):** [https://explore.steamexchange.io](https://explore.steamexchange.io)
     
+![Add Rails Network Details](TW-Interact-With-Rails-Network-04.jpg)
+
 5. Then click on Import.
 
-![Add Rails Network Details](TW-Interact-With-Rails-Network-05.jpg)
+![Importing](TW-Interact-With-Rails-Network-05.jpg)
 
 It should add our Network to TrustWallet.
 
