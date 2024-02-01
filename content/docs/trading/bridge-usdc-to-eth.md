@@ -18,7 +18,7 @@ Ensure you have the following assets in the Ethereum network wallet you want to 
 ## Important Notes:
 
 - Use a compatible wallet like MetaMask.
-- Have enough ETH on the Ethereum network to cover gas fees.
+- **Have enough ETH on the Ethereum network to cover gas fees.**
 - Do not refresh the webpage during the process.
 - Use the built-in browser of your wallet if you are using a smartphone.
 
