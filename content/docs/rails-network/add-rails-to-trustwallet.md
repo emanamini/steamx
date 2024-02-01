@@ -1,5 +1,5 @@
 ---
-title: Adding Rails Network to MetaMask
+title: Adding Rails Network to TrustWallet
 weight: 2
 bookToc: false
 ---

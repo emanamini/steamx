@@ -91,12 +91,12 @@ ul.pagination {
   margin: 5%;
 }
 
-img {
+article img {
   width: 60%;
   height: auto;
   display: block;
   margin: 5%;
-//  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.5); // Add box shadow
+  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.5); // Add box shadow
 }
 
 @media screen and (min-width: 768px) {
@@ -305,6 +305,7 @@ body[dir="rtl"] .book-menu {
   transition-property: transform, margin, opacity, visibility;
   will-change: transform, margin, opacity;
 }
+
 
 @media screen and (max-width: $mobile-breakpoint) {
   #menu-control,

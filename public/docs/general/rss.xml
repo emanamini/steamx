@@ -14,5 +14,12 @@
       <guid>https://yourdomain.com/docs/general/how-to-migrate-from-bsc-to-rails/</guid>
       <description>How to Migrate SteamX Tokens from BSC to Rails Network # Migrating your tokens from BSC to Rails network is a straightforward process. You can watch a video tutorial on how to do it or follow these easy steps:&#xA;Use a Compatible Wallet: Ensure you are using a compatible wallet. We strongly recommend MetaMask. If you already have SteamX (BSC) tokens in another wallet, you can import your Seed Phrase into MetaMask and continue using the other wallet.</description>
     </item>
+    <item>
+      <title>Importing TrustWallet into MetaMask</title>
+      <link>https://yourdomain.com/docs/general/import-tw-into-mm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yourdomain.com/docs/general/import-tw-into-mm/</guid>
+      <description>Importing TrustWallet into MetaMask # For importing TrustWallet into MetaMask and use them simultaneously can either see this video on YouTube or use our step by step guide.&#xA;1. Obtain your wallet Seed-Phrase from TrustWallet # In TrustWallet, go to Settings &amp;gt; Wallets. Press the three-dots button for the wallet (usually Main Wallet 1). Tap on Manual Backup, enter your PIN, tick all boxes, and press Continue. Note down the displayed Seed-Phrase securely.</description>
+    </item>
   </channel>
 </rss>

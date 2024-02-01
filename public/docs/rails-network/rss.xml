@@ -15,7 +15,7 @@
       <description>Adding Rails Network to MetaMask # On smartphones:&#xA;Open MetaMask and tap on the network list at the top of the app. Press Add Network. Select Custom Network tab. In this dialog, use the following variables: Network Name: Rails Network RPC URL: https://mainnet.steamexchange.io Currency Symbol: STEAMX Chain ID: 6278 Explorer: https://explore.steamexchange.io Then click on Add to have our network in your Network list. On extension:&#xA;Open MetaMask extension and tap on the network list at the top-left of the app.</description>
     </item>
     <item>
-      <title>Adding Rails Network to MetaMask</title>
+      <title>Adding Rails Network to TrustWallet</title>
       <link>https://yourdomain.com/docs/rails-network/add-rails-to-trustwallet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://yourdomain.com/docs/rails-network/add-rails-to-trustwallet/</guid>

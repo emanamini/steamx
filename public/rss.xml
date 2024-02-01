@@ -16,6 +16,13 @@
       <description>Adding Rails Network to MetaMask # On smartphones:&#xA;Open MetaMask and tap on the network list at the top of the app. Press Add Network. Select Custom Network tab. In this dialog, use the following variables: Network Name: Rails Network RPC URL: https://mainnet.steamexchange.io Currency Symbol: STEAMX Chain ID: 6278 Explorer: https://explore.steamexchange.io Then click on Add to have our network in your Network list. On extension:&#xA;Open MetaMask extension and tap on the network list at the top-left of the app.</description>
     </item>
     <item>
+      <title>How to Buy SteamX</title>
+      <link>https://yourdomain.com/docs/trading/buying-steamx-on-rails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yourdomain.com/docs/trading/buying-steamx-on-rails/</guid>
+      <description>Guide to Buying SteamX using MetaMask and our Bridge # Step 1: Install MetaMask # You need a wallet. We recommend MetaMask for seamless integration with our network. Install it from a trusted source. Visit their website for legitimate download links: metamask.io&#xA;If you are using TrustWallet, you can import your Seed-Phrase into MetaMask and use it at the same time. Please follow this guide on How to Import TrustWallet into MetaMask.</description>
+    </item>
+    <item>
       <title>Migrate from BSC to Rails</title>
       <link>https://yourdomain.com/docs/general/how-to-migrate-from-bsc-to-rails/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -23,18 +30,32 @@
       <description>How to Migrate SteamX Tokens from BSC to Rails Network # Migrating your tokens from BSC to Rails network is a straightforward process. You can watch a video tutorial on how to do it or follow these easy steps:&#xA;Use a Compatible Wallet: Ensure you are using a compatible wallet. We strongly recommend MetaMask. If you already have SteamX (BSC) tokens in another wallet, you can import your Seed Phrase into MetaMask and continue using the other wallet.</description>
     </item>
     <item>
-      <title>With ToC</title>
-      <link>https://yourdomain.com/docs/trading/with-toc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yourdomain.com/docs/trading/with-toc/</guid>
-      <description>Caput vino delphine in tamen vias # Cognita laeva illo fracta # Lorem markdownum pavent auras, surgit nunc cingentibus libet Laomedonque que est. Pastor An arbor filia foedat, ne fugit aliter, per. Helicona illas et callida neptem est Oresitrophos caput, dentibus est venit. Tenet reddite famuli praesentem fortibus, quaeque vis foret si frondes gelidos gravidae circumtulit inpulit armenta nativum.&#xA;Te at cruciabere vides rubentis manebo Maturuit in praetemptat ruborem ignara postquam habitasse Subitarum supplevit quoque fontesque venabula spretis modo Montis tot est mali quasque gravis Quinquennem domus arsit ipse Pellem turis pugnabant locavit Natus quaerere # Pectora et sine mulcere, coniuge dum tincta incurvae.</description>
-    </item>
-    <item>
-      <title>Adding Rails Network to MetaMask</title>
+      <title>Adding Rails Network to TrustWallet</title>
       <link>https://yourdomain.com/docs/rails-network/add-rails-to-trustwallet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://yourdomain.com/docs/rails-network/add-rails-to-trustwallet/</guid>
       <description>Adding Rails Network to TrustWallet # Note: You can click/tap on the variables to copy them into your clipboard.&#xA;Open TrustWallet and click on the manage assets icon in the top right corner. Now click on the plus icon in the top right corner. Select the Network tab in the next dialog. In this dialog, use the following variables: Network: Ethereum Name: Rails Network Symbol: STEAMX Node URL: https://mainnet.steamexchange.io Explorer URL (Optional): https://explore.</description>
+    </item>
+    <item>
+      <title>Bridge USDC from Ethereum to Rails</title>
+      <link>https://yourdomain.com/docs/trading/bridge-usdc-to-rails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yourdomain.com/docs/trading/bridge-usdc-to-rails/</guid>
+      <description>Bridge USDC from Ethereum to Rails # This guide walks you through the process of bridging USDC between the Ethereum and Rails networks using our depot.&#xA;Requirements: # Ensure you have the following assets in the Ethereum network wallet you want to bridge with:&#xA;About 10 to 20 USD in ETH for covering gas fees. The amount of USDC you want to bridge. Important Notes: # Use a compatible wallet like MetaMask.</description>
+    </item>
+    <item>
+      <title>Importing TrustWallet into MetaMask</title>
+      <link>https://yourdomain.com/docs/general/import-tw-into-mm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yourdomain.com/docs/general/import-tw-into-mm/</guid>
+      <description>Importing TrustWallet into MetaMask # For importing TrustWallet into MetaMask and use them simultaneously can either see this video on YouTube or use our step by step guide.&#xA;1. Obtain your wallet Seed-Phrase from TrustWallet # In TrustWallet, go to Settings &amp;gt; Wallets. Press the three-dots button for the wallet (usually Main Wallet 1). Tap on Manual Backup, enter your PIN, tick all boxes, and press Continue. Note down the displayed Seed-Phrase securely.</description>
+    </item>
+    <item>
+      <title>Bridge USDC from Rails to Ethereum</title>
+      <link>https://yourdomain.com/docs/trading/bridge-usdc-to-eth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yourdomain.com/docs/trading/bridge-usdc-to-eth/</guid>
+      <description>Bridge USDC from Rails to Ethereum # This guide walks you through the process of bridging USDC between the Rails and Ethereum networks using our depot.&#xA;Requirements: # Ensure you have the following assets in the Ethereum network wallet you want to bridge with:&#xA;About 10 to 20 USD in ETH for covering gas fees. The amount of USDC you want to bridge. Important Notes: # Use a compatible wallet like MetaMask.</description>
     </item>
     <item>
       <title>What is SteamX</title>
